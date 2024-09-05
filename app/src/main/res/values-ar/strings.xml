@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoCompose</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="english">الانجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="language">اللغة</string>
+    <string name="todo">المهمات</string>
+    <string name="mode">الوضع</string>
+    <string name="light">المضيئ</string>
+    <string name="dark">المظلم</string>
+    <string name="add_new_task">اضافه مهمة جديدة</string>
+    <string name="select_time">اختار الوقت</string>
+    <string name="add">اضافة</string>
+    <string name="enter_your_task">ادخل مهمتك</string>
+    <string name="save_changes">حفظ التغيرات</string>
+    <string name="edit_your_task">تعديل مهمتك</string>
+    <string name="edit_task">تعديل المهمة</string>
+</resources>
